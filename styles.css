@@ -5,7 +5,7 @@ body
 }
 h1 
 { 
-    font-family:'Times New Roman', Times, serif ;
+    font-family:Georgia, 'Times New Roman', Times, serif;
     text-align: left;
     color: rgb(252, 252, 226);
     font-size: medium;
@@ -19,7 +19,7 @@ h2
 }
 p 
 {
-    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family:Georgia, 'Times New Roman', Times, serif;
     text-align: left;
     color: rgb(252, 252, 226);
     font-size: smaller;
