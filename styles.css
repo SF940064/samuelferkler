@@ -1,27 +1,27 @@
 body 
 {
     margin: 0;
-    background-color: rgb(6, 6, 132);
+    background-color: rgb(4, 4, 85);
 }
 h1 
 { 
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family:'Times New Roman', Times, serif ;
     text-align: left;
-    color: ivory;
+    color: rgb(252, 252, 226);
     font-size: medium;
 }
 h2 
 {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family:Georgia, 'Times New Roman', Times, serif;
     text-align: left;
-    color: ivory;
+    color: rgb(252, 252, 226);
     font-size: small;
 }
 p 
 {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     text-align: left;
-    color: ivory;
+    color: rgb(252, 252, 226);
     font-size: smaller;
 }
     
