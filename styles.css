@@ -1,0 +1,27 @@
+body 
+{
+    margin: 0;
+    background-color: rgb(6, 6, 132);
+}
+h1 
+{ 
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: left;
+    color: ivory;
+    font-size: medium;
+}
+h2 
+{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: left;
+    color: ivory;
+    font-size: small;
+}
+p 
+{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: left;
+    color: ivory;
+    font-size: smaller;
+}
+    
